@@ -562,5 +562,3 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ---
 
 **Floor ile yapay zeka karakterlerinin büyüleyici dünyasını keşfedin! 🚀**
-
-> *Bu proje Claude Code ile geliştirilmiştir ve sürekli olarak geliştirilmektedir.*
